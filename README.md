@@ -1,3 +1,8 @@
+📘 Frontend Tasks – HTML & Bootstrap
+A collection of frontend UI layout tasks created using HTML, CSS, and Bootstrap.
+
+
+
 📝 Task 1: Ethnus Layout
 A simple webpage layout built using Bootstrap 4, consisting of:
 
